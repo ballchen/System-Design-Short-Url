@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "mongoUrl": "mongodb://localhost:27017/shorturl",
+  "redisUrl": "redis://127.0.0.1:6379"
+}
